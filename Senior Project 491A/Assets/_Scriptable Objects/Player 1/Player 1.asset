@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11113247a10e74e4ca7d43fe815827d9, type: 3}
+  m_Name: Player 1
+  m_EditorClassIdentifier: 
+  hand: {fileID: 11400000, guid: 7473ef4c36860c2479a050f88a746ac7, type: 2}
+  deck: {fileID: 11400000, guid: 77511a9b75f407f488519f69205c933f, type: 2}
+  currency: 0
+  power: 0
+  playerGraveyard: {fileID: 11400000, guid: c9c8ae8b86cbfa74f8179ae0b4baa309, type: 2}
+  rewardPile: []
+  _selectedHero: {fileID: 11400000, guid: 8560a61c11d6e124baf7b862814b7b9e, type: 2}

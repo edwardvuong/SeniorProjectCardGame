@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player 1
+  - Player 2
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Overlapping UI
   - 
   - 
   - 
@@ -40,4 +42,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 2130584673
+    locked: 0
+  - name: Shop
+    uniqueID: 3591834891
+    locked: 0
+  - name: Player Card
+    uniqueID: 247937407
+    locked: 0
+  - name: Selected Player Card
+    uniqueID: 2879226951
+    locked: 0
+  - name: Play Zone Particle Effect
+    uniqueID: 4134231679
     locked: 0
